@@ -48,3 +48,8 @@ git clone https://github.com/etazza/sponty-frontend.git
 cd sponty-frontend
 flutter pub get
 flutter run
+```
+
+## 📍 Current Status
+
+This project is archived as of 26th August 2026. No plans to restore currently.
